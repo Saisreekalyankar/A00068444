@@ -22,9 +22,9 @@ A safety layer is applied to reduce high-risk outputs and promote neutral, user-
 ---
 
 ## Files
-- code.ipynb â€“ Main implementation notebook
-- report.pdf â€“ Final project report with methodology, results, and analysis
-
+- A00068444.ipynb Main implementation notebook
+- A00068444(part1).pdf is the part1 report
+- A00068444(part2).pdf is the part2 report
 ---
 
 ## Dataset
